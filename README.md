@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HishamArshad
-- 👀 I’m interested in web developement.
-- 🌱 I’m currently learning javascript 
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Djano 
 - 💞️ I’m looking to collaborate in a team.
 - 📫 How to reach me= hishamarshad46@gmail.com
 
